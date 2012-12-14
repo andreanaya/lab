@@ -1,0 +1,1002 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"old",
+				"oldY"
+			],
+			[
+				"r",
+				"rawData"
+			],
+			[
+				"ap",
+				"appendRotation"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"me",
+				"menu"
+			],
+			[
+				"co",
+				"cost"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"pau",
+				"pauseScreen"
+			],
+			[
+				"cre",
+				"createButton"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"remove",
+				"removeChild"
+			],
+			[
+				"ti",
+				"tick"
+			],
+			[
+				"p",
+				"percent"
+			],
+			[
+				"dr",
+				"drop"
+			],
+			[
+				"b",
+				"background-size"
+			],
+			[
+				"pr",
+				"preloader"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"an",
+				"angle"
+			],
+			[
+				"ar",
+				"arrow"
+			],
+			[
+				"poin",
+				"pointer"
+			],
+			[
+				"em",
+				"emitter"
+			],
+			[
+				"ang",
+				"angleBetween"
+			],
+			[
+				"di",
+				"direction"
+			],
+			[
+				"a",
+				"arrow"
+			],
+			[
+				"re",
+				"retry"
+			],
+			[
+				"Poin",
+				"PointsSystem"
+			],
+			[
+				"po",
+				"points"
+			],
+			[
+				"Poi",
+				"PointsSystem"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"to",
+				"towers"
+			],
+			[
+				"toal",
+				"totalPoints"
+			],
+			[
+				"cl",
+				"clouds"
+			],
+			[
+				"total",
+				"totalPoints"
+			],
+			[
+				"v",
+				"vector"
+			],
+			[
+				"n",
+				"normalize"
+			],
+			[
+				"remo",
+				"removeTower"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"dra",
+				"drag"
+			],
+			[
+				"crea",
+				"createjs"
+			],
+			[
+				"be",
+				"beginFill"
+			],
+			[
+				"setS",
+				"setScale"
+			],
+			[
+				"create",
+				"createButton"
+			],
+			[
+				"wat",
+				"waterShadow"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"e",
+				"emitters"
+			],
+			[
+				"emi",
+				"emitters"
+			],
+			[
+				"set",
+				"setEmitter"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"emitt",
+				"emitter"
+			],
+			[
+				"get",
+				"getPosition"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"Te",
+				"Test04"
+			],
+			[
+				"mas",
+				"mask"
+			],
+			[
+				"draw",
+				"drawWater"
+			],
+			[
+				"ma",
+				"masks"
+			],
+			[
+				"mask",
+				"mask1"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"addClo",
+				"addClouds"
+			],
+			[
+				"towe",
+				"towers"
+			],
+			[
+				"ca",
+				"call"
+			],
+			[
+				"addTw",
+				"addTowerEvent"
+			],
+			[
+				"gr",
+				"graphics"
+			],
+			[
+				"men",
+				"menuEvent"
+			],
+			[
+				"onClick",
+				"onClickEvent"
+			],
+			[
+				"Menu",
+				"MenuButton"
+			],
+			[
+				"sp",
+				"spacer"
+			],
+			[
+				"Sg",
+				"Signal"
+			],
+			[
+				"onMou",
+				"onMouseOver"
+			],
+			[
+				"onMouse",
+				"onMouseOut"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"offset",
+				"offsetX"
+			],
+			[
+				"add",
+				"addChild"
+			],
+			[
+				"pl",
+				"playEvent"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"eve",
+				"eventHandlers"
+			],
+			[
+				"even",
+				"eventHandlers"
+			],
+			[
+				"u",
+				"update"
+			],
+			[
+				"ev",
+				"eventHandlers"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"c",
+				"table-cell"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"table-c",
+				"table-column"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"city",
+				"cityOfBirth"
+			],
+			[
+				"de",
+				"defaultValues"
+			],
+			[
+				"bu",
+				"bubble"
+			],
+			[
+				"bub",
+				"bubble"
+			],
+			[
+				"bubb",
+				"bubble"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"bubble",
+				"bubbleContainer"
+			],
+			[
+				"setTi",
+				"setTimeout"
+			],
+			[
+				"par",
+				"particles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test006/index.html",
+			"settings":
+			{
+				"buffer_size": 355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test006/App.js",
+			"settings":
+			{
+				"buffer_size": 1127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test006/Particle.js",
+			"settings":
+			{
+				"buffer_size": 899,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test006/Constraint.js",
+			"settings":
+			{
+				"buffer_size": 1301,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/andreanaya/Desktop/works/PowerUp/src/powerup/physics/Constraint.as",
+			"settings":
+			{
+				"buffer_size": 2609,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/andreanaya/Desktop/works/PowerUp/src/powerup/physics/Particle.as",
+			"settings":
+			{
+				"buffer_size": 2310,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "LessRainGame",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andreanaya/Desktop/works/lab/test002/App.js",
+		"/Users/andreanaya/Desktop/works/lab/test002/Triangle.js",
+		"/Users/andreanaya/Desktop/works/lab/test002/Matrix.js",
+		"/Users/andreanaya/Desktop/works/lab/test004/Triangle.js",
+		"/Users/andreanaya/Desktop/works/lab/test006/index.html",
+		"/Users/andreanaya/Desktop/works/lab/test005/App.js",
+		"/Users/andreanaya/Desktop/works/lab/test001/Matrix3D.js",
+		"/Users/andreanaya/Desktop/works/lab/test001/Vector3D.js",
+		"/Users/andreanaya/Desktop/works/lab/test001/App.js",
+		"/Users/andreanaya/Desktop/works/lab/test003/App.js",
+		"/Users/andreanaya/Desktop/works/_html/test004/bin/js/DataLib.js",
+		"/Users/andreanaya/Desktop/works/_html/test004/bin/js/App.js",
+		"/Users/andreanaya/Desktop/works/LRG/bin/style/style.css",
+		"/Users/andreanaya/Desktop/CAC_package/player/sample.html",
+		"/Users/andreanaya/Desktop/CAC_package/player/inc/js/swfobject.js",
+		"/Users/andreanaya/Desktop/CAC_package/player/iframe.html",
+		"/Users/andreanaya/Desktop/works/LRG/bin/js/Lab.js",
+		"/Users/andreanaya/Desktop/works/LRG/bin/lab.html",
+		"/Users/andreanaya/Desktop/works/LRG/bin/index.html",
+		"/Users/andreanaya/Desktop/works/LRG/bin/js/App.js",
+		"/Users/andreanaya/Desktop/works/LRG/bin/content/json/blow.json",
+		"/Users/andreanaya/Desktop/works/LRG/bin/content/json/cloud.json",
+		"/Users/andreanaya/Desktop/works/LRG/bin/content/json/suck.json",
+		"/Users/andreanaya/Desktop/works/LRG/lsg.sublime-project",
+		"/Users/andreanaya/Desktop/works/LRG/lrg.sublime-project",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/js/Background.js",
+		"/Users/andreanaya/Desktop/works/_html/test003/bin/index.html",
+		"/Users/andreanaya/Desktop/works/LessRainGame/LessRainGame.sublime-project",
+		"/Users/andreanaya/Desktop/works/_html/test001/bin/style/reset.css",
+		"/Users/andreanaya/Desktop/works/_html/test001/bin/style/low_style.css",
+		"/Users/andreanaya/Desktop/works/_html/test001/bin/style/style.css",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/js/share.js",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/js/Form.js",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/js/Bubble.js",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/mobile.html",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/css/mobile.html",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/js/Form_mobile",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/save.php",
+		"/Users/andreanaya/Desktop/works/CAC/bin/inc/js/share.js",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/csv.php",
+		"/Users/andreanaya/Desktop/detectmobilebrowser.js",
+		"/Users/andreanaya/Desktop/works/CAC/bin/share.html",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/css/style.css",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/js/isMobile.js",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/js/Bubble2.js",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/bin/index.html",
+		"/Users/andreanaya/Desktop/works/RedBullBulletin/index.html",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1345657800/SVN",
+		"/Users/andreanaya/Desktop/works/LessRainGame/deploy/js/App.js.mine",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1345657695/SVN",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/AppView.coffee.mine",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1345657469/SVN",
+		"/Users/andreanaya/Desktop/works/LessRainGame/deploy/js/libs/easeljs/geom/Matrix2D.js",
+		"/Users/andreanaya/Desktop/works/LessRainGame/deploy/js/libs/easeljs/filters/BoxBlurFilter.js",
+		"/Users/andreanaya/Desktop/works/LessRainGame/deploy/js/libs/easeljs/filters/ColorMatrixFilter.js",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/clouds/AbstractCloud.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/views/WindView.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/views/Background.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/deploy/index.html",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/AppView.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/towers/SuckTower.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/physics/Particle.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/towers/AbstractTower.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/physics/Engine.coffee",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1345457897/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1345457665/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344964924/SVN",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/views/Arena.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/App.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/scripts/compile.sh",
+		"/Users/andreanaya/Desktop/works/LessRainGame/deploy/js/App.js",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/AppConfig.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/towers/BlowTower.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/physic/Engine.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/physic/Particle.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/physic/Vector2D.coffee",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344963086/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344963026/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344962989/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344962976/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344962794/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344962888/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344962928/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344962741/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344962678/SVN",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344959196/SVN",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/views/TowerMenuItem.coffee",
+		"/Users/andreanaya/Desktop/works/LessRainGame/source/views/TowerMenu.coffee",
+		"/var/folders/gk/bc34c5d146s9r78zkgxf3h100000gq/T/sublime-svn-1344877899/SVN",
+		"/Users/andreanaya/Desktop/LessRainGame/source/App.coffee",
+		"/Users/andreanaya/Desktop/LessRainGame/LessRainGame.sublime-workspace",
+		"/Users/andreanaya/Desktop/LessRainGame/LessRainGame.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"this"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"m",
+			"PointsSystem.reset",
+			"water",
+			"END SCREEN",
+			"END SCRE",
+			"}\n",
+			"			\n",
+			"console.log",
+			"PointsSystem",
+			"setLevel",
+			"active = true",
+			"setLevel",
+			"menu.addTo",
+			"drag",
+			"addTowerEvent",
+			"addEmitter",
+			"setEmitter",
+			"emitters",
+			"addEmitter",
+			"setEmitter",
+			"getCollisionDistance",
+			"addCloud",
+			"angle",
+			"Water =",
+			"water",
+			"768",
+			"drawWater",
+			"}\n",
+			"event.target",
+			"	\n",
+			"this.",
+			"})\n",
+			"	});",
+			"__bind",
+			"arguments",
+			"__bind",
+			"getVector",
+			"__bind",
+			"100",
+			"5em",
+			"right",
+			";\n",
+			"left",
+			"append",
+			"mouseover",
+			"iPhone",
+			"ipad",
+			"bubble",
+			"mouseover",
+			"class='bu",
+			"'",
+			"console",
+			"this.container",
+			"context.container",
+			"context.id",
+			"this.id",
+			"context.container",
+			"this.container",
+			"'",
+			"    \n",
+			"###\n",
+			"		\n",
+			"update",
+			"=\n",
+			"		\n",
+			"{\n",
+			"getVX",
+			"		\n",
+			"length",
+			"			@",
+			"t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"this.id",
+			"context.id",
+			"context.container",
+			"this.container",
+			"context.id",
+			"this.id",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test006/index.html",
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test006/App.js",
+					"settings":
+					{
+						"buffer_size": 1127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test006/Particle.js",
+					"settings":
+					{
+						"buffer_size": 899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test006/Constraint.js",
+					"settings":
+					{
+						"buffer_size": 1301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/andreanaya/Desktop/works/PowerUp/src/powerup/physics/Constraint.as",
+					"settings":
+					{
+						"buffer_size": 2609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1776,
+								2599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ActionScript/ActionScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 562.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/andreanaya/Desktop/works/PowerUp/src/powerup/physics/Particle.as",
+					"settings":
+					{
+						"buffer_size": 2310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1546,
+								1015
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ActionScript/ActionScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.",
+				"deploy/js/App.js"
+			],
+			[
+				"app.js",
+				"deploy/js/App.js"
+			],
+			[
+				"app",
+				"deploy/js/App.js"
+			],
+			[
+				"vecto",
+				"source/physic/Vector2D.coffee"
+			],
+			[
+				"com",
+				"scripts/compile.sh"
+			],
+			[
+				"a",
+				"source/App.coffee"
+			],
+			[
+				"compi",
+				"scripts/compile.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true
+}
